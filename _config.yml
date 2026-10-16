@@ -1,0 +1,5 @@
+title: UtaShirabe Legacy Redirects
+url: https://limited293.github.io
+baseurl: /UtaShirabe-site
+plugins:
+  - jekyll-redirect-from
